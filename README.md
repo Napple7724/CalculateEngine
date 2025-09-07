@@ -4,7 +4,7 @@
 
 <div style="text-align: center;"><span style="color: transparent; background: text linear-gradient(to right, #64c5d9, #4c6dc2, #a142c9); font-weight: 700;">Calculate Engine</span> by <a href="https://theseed.io/w/틀:나플/계정 및 연습장 목록" style="color: transparent; background: text linear-gradient(to right, #80e085, #39bd70); font-weight: 700;">Napple7724</a> in <a href="https://python.org">Python</a> on September 7, 2025</div>
 
-<div style="margin-bottom: 50px;"></div>
+<br><br>
 
 **계산을 도와주는 파이썬 기반 엔진입니다.**  
 그냥 취미로 만들어봤습니다.
